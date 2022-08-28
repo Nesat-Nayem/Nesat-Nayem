@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="50%" height = "280px" src="https://i.postimg.cc/X74CkqqX/code.gif"/>
+<img width="80%" height = "350px" src="https://i.postimg.cc/X74CkqqX/code.gif"/>
 </div>
 
 <p>&nbsp;</p>
