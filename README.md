@@ -1,3 +1,10 @@
+<div align="center">
+
+<img width="50%" height = "280px" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true"/>
+</div>
+
+<p>&nbsp;</p>
+
 <h1 align="center">Hi 👋, I'm Nesat Nayem</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
