@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesat-nayem&label=Profile%20views&color=0e75b6&style=flat" alt="nesat-nayem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesat-nayem" alt="nesat-nayem" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, MySQL, React Native**
 
 - 👯 I’m looking to collaborate on **React.js**
@@ -21,6 +19,9 @@
 - 💬 Ask me about **Next.js, React.js, Typescript**
 
 - 📫 How to reach me **nayemnesat@gmail.com**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesat-nayem" alt="nesat-nayem" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
