@@ -34,9 +34,9 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesat-nayem&show_icons=true&locale=en&layout=compact" alt="nesat-nayem" />
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesat-nayem&show_icons=true&locale=en&layout=compact" alt="nesat-nayem" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesat-nayem&show_icons=true&locale=en" alt="nesat-nayem" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=nesat-nayem&show_icons=true&locale=en" alt="nesat-nayem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesat-nayem&" alt="nesat-nayem" /></p>
 
