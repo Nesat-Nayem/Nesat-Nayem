@@ -34,7 +34,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesat-nayem&show_icons=true&locale=en&layout=compact" alt="nesat-nayem" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesat-nayem&show_icons=true&locale=en&layout=compact" alt="nesat-nayem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesat-nayem&show_icons=true&locale=en" alt="nesat-nayem" /></p>
 
