@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesat-nayem&label=Profile%20views&color=0e75b6&style=flat" alt="nesat-nayem" /> </p>
 
-- 🌱 I’m currently learning **Typescript, MySQL, React Native**
+- 🌱 I’m currently learning **PHP, Symfony, React Native**
 
 - 👯 I’m looking to collaborate on **React.js**
 
