@@ -1,41 +1,56 @@
-<div align="center">
+<div align="center" >
 
-<img width="50%" height = "280px" src="https://i.postimg.cc/X74CkqqX/code.gif"/>
+## Hi there👋, I'm [Nesat Nayem]() 
 </div>
 
-<p>&nbsp;</p>
+#### About me  
+I am a Full Stack Developer. I have done many certifications related to Web Development. I love to create attractive websites. Currently I am learning Next js.
 
-<h1 align="center">Hey <a target="_blank" rel="noopener noreferrer" href="https://i.postimg.cc/1zTSryhf/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://i.postimg.cc/1zTSryhf/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;"></a> It's Me Nesat Nayem</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+- ✨Fun-Fact: I love to collect certificates🙃
+- 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
+- 📮 Have work for me? contact me here: nayemnesat@gmail.com
+- 📝 [Resume](null)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nesat-nayem&label=Profile%20views&color=0e75b6&style=flat" alt="nesat-nayem" /> </p>
 
-- 🌱 I’m currently learning **Next JS, Typescript**
 
-- 👯 I’m looking to collaborate on **React.js**
+ ## 🔌 Connect with me:
 
-- 👨‍💻 All of my recent projects are available at [https://nesatnayem-nn.web.app](https://nesatnayem-nn.web.app)
+[<img align="left" alt="Akash's Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sahil's Telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Sahil's Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sahil's Email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-- 💬 Ask me about **Next.js, React.js, Typescript**
+<br /> 
 
-- 📫 How to reach me **nayemnesat@gmail.com**
+<img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/source.gif" />
 
-<br />
-<br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesat-nayem" alt="nesat-nayem" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nesat-nayem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nesat-nayem/" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) <br />
+![MaterialUI](https://img.shields.io/badge/Material_UI-000000?style=flat&logo=materialui) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)  <br />
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose)
+![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesat-nayem&" alt="nesat-nayem" /></p>
-<br />
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesat-nayem&show_icons=true&locale=en&layout=compact" alt="nesat-nayem" />
+ <br />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nesat-nayem&show_icons=true&locale=en" alt="nesat-nayem" /></p>
+
+
+💖 From [Nesat]()
+
+[linkedin]: https://www.linkedin.com/in/nesat-nayem/
+[instagram]: https://instagram.com/
+[telegram]: https://t.me/
+[email]: mailto:nayemnesat@gmail.com
