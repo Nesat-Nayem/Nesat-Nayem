@@ -4,11 +4,11 @@
 </div>
 
 #### About me  
-I am a Full Stack Developer. I have done many certifications related to Web Development. I love to create attractive websites. Currently I am learning Next js.
+I’m a full-stack developer who can build both client and server software. 🚀 I love to create responsive, user-friendly, and secure websites and applications using various frameworks and technologies. I’m always eager to learn new skills and take on new challenges. 🚀 I’m a team player and a problem solver. contact me and let’s chat 💬
 
-- ✨Fun-Fact: I love to collect certificates🙃
-- 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
-- 📮 Have work for me? contact me here: nayemnesat@gmail.com
+- ✨Fun-Fact: I can debug code faster than I can fix my own problems.😅
+- 🕹️ Hobbies: 🎬 Watching Movies, 🌲 Traveling to Nature Scenes
+- 📧 If you’re interested in working with me, feel free to email me at nayemnesat@gmail.com
 - 📝 [Resume](null)
 
 
@@ -29,15 +29,24 @@ I am a Full Stack Developer. I have done many certifications related to Web Deve
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) <br />
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)<br />
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=nextjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)<br />
 ![MaterialUI](https://img.shields.io/badge/Material_UI-000000?style=flat&logo=materialui) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
+![Redux](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)  <br />
+![Redux](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgreSQL) <br />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
