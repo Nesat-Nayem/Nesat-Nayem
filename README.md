@@ -9,7 +9,7 @@ I’m a full-stack developer who can build both client and server software. 🚀
 - ✨Fun-Fact: I can debug code faster than I can fix my own problems.😅
 - 🕹️ Hobbies: 🎬 Watching Movies, 🌲 Traveling to Nature Scenes
 - 📧 I love it hear you, feel free to email me at nayemnesat@gmail.com
-- 📝 [Resume](null)
+
 
 
 
