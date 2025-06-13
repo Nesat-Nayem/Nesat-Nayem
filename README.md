@@ -30,11 +30,11 @@ I’m a full-stack developer who can build both client and server software. 🚀
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
-![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)<br />
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)<br />
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
