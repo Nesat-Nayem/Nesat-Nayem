@@ -57,7 +57,7 @@ I’m a full-stack developer who can build both client and server software. 🚀
 
 
 
-💖 From [Nesat Nayem]()
+💖 From [MD NAYEM]()
 
 [linkedin]: https://www.linkedin.com/in/nesat-nayem/
 [instagram]: https://instagram.com/
